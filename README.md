@@ -1,4 +1,5 @@
 # mangoes_project_spring_mvc
+This project is build using spring maven. 
 
  We developed an end to end Ecommerce web-app using spring mvc with multiple modules:
  -> Functionalities:
